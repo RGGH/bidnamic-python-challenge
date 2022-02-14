@@ -1,0 +1,5 @@
+https://linuxhandbook.com/docker-compose-ubuntu/
+
+https://herewecode.io/blog/create-a-postgresql-database-using-docker-compose/
+
+https://docs.docker.com/compose/compose-file/compose-file-v3/
